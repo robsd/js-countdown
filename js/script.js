@@ -1,4 +1,4 @@
-target = '25/12/2021'; // Countdown To (DD/MM/YYYY)
+target = '01/01/2100'; // Countdown To (DD/MM/YYYY)
 
 days = document.getElementById('days');
 hours = document.getElementById('hours');
